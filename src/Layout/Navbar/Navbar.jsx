@@ -22,16 +22,16 @@ export default function Navbar() {
         <>
             {/* ------Mobile menu------ */}
             <div
-                className={`fixed top-0 left-0 h-screen shadow-md bg-red-100 z-50 transform transition-transform duration-300 ease-in-out 
-                ${isOpen ? "translate-x-0 w-64" : "-translate-x-full w-64"}`}
+                className={`fixed top-0 left-0 h-screen shadow-md bg-[#ECFFEC] z-50 transform transition-transform duration-300 ease-in-out 
+                ${isOpen ? "translate-x-0 w-50" : "-translate-x-full w-50"}`}
             >
-                <div onClick={() => setOpen(false)} className="flex justify-end mt-3 mr-3 text-2xl cursor-pointer hover:text-red-500 duration-400">
+                <div onClick={() => setOpen(false)} className="flex justify-end mt-3 mr-3 text-2xl cursor-pointer hover:text-[#3BB77E] duration-400">
                     <RxCrossCircled />
                 </div>
 
                 <div className="flex flex-col gap-4 mt-10 items-center">
                     {navItems.map((item, idx) => (
-                        <div className='hover:bg-red-400 p-2 rounded-md hover:text-white duration-400' key={idx} onClick={() => setOpen(false)}>
+                        <div className='hover:bg-[#3BB77E]/50 p-2 rounded-md  duration-400' key={idx} onClick={() => setOpen(false)}>
                             {item}
                         </div>
                     ))}
@@ -46,12 +46,12 @@ export default function Navbar() {
                         <div className="flex items-center gap-2">
                             <img className="w-14" src={logo} alt="logo" />
                             <div className="flex flex-col items-start">
-                                <h1 className="text-3xl md:text-3xl lg:text-4xl font-bold">Nest</h1>
+                                <h1 className="text-3xl md:text-3xl lg:text-4xl font-bold text-[#3BB77E]">Nest</h1>
                                 <span className="text-xs">MART & GROCERY</span>
                             </div>
                         </div>
 
-                        <div className="hidden md:flex lg:flex items-center gap-2">
+                        <div className="hidden md:flex lg:flex text-[#253D4E] font-medium  items-center gap-2">
                             <img src={hot_deals} alt="hot_deals" />
                             <p>Hot Deals</p>
                         </div>
@@ -60,18 +60,18 @@ export default function Navbar() {
                     {/* -----lg device menubar---- */}
                     <div className="hidden md:hidden lg:flex gap-7 ">
                         {navItems.map((m, idx) => (
-                            <div key={idx}>{m}</div>
+                            <div className='hover:bg-[#3BB77E]/50 p-2 rounded-md font-bold text-[#253D4E] duration-400' key={idx}>{m}</div>
                         ))}
                     </div>
-                    <button className="py-2 px-6 bg-green-700 rounded-md text-white font-medium shadow-md 
+                    <button className="py-2 px-6 bg-[#3BB77E] rounded-md text-white font-medium shadow-md 
 transform transition-all duration-300 hover:scale-110 hover:bg-green-800 hover:shadow-lg">
                         Login
                     </button>
 
 
-                    {/* ------small device navbar icon------ */}
+                    {/* ------small and medium device navbar icon------ */}
                 </div>
-                <div onClick={() => setOpen(true)} className="text-3xl font-black md:hidden cursor-pointer">
+                <div onClick={() => setOpen(true)} className="text-3xl font-black lg:hidden cursor-pointer">
                     <IoMenu />
                 </div>
             </div>
