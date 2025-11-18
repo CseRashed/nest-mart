@@ -10,7 +10,7 @@
     "offPercentage": 18.18,
     "batch": "sale",
     "rating": 4.6,
-    "img": "https://i.ibb.co.com/Lh0V3rS3/All-Natural-Style-Chicken-Meatballs.png"
+    "img": "https://i.ibb.co.com/RkcJNQyG/Angie-s-Sweet-Salty-Kettle-Corn-removebg-preview.png"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "offPercentage": 20.00,
     "batch": "featured",
     "rating": 4.8,
-    "img": "https://i.ibb.co.com/xkHmcYy/Angie-s-Sweet-Salty-Kettle-Corn.png"
+    "img": "https://i.ibb.co.com/nqndSQRZ/Canada-Dry-Ginger-Ale-2-L-Bottle-removebg-preview.png"
   },
   {
     "id": 3,
@@ -36,8 +36,12 @@
     "offPercentage": 15.63,
     "batch": "new",
     "rating": 4.4,
-    "img": "https://i.ibb.co.com/99pkJLq6/Blue-Almonds-Lightly-Salted-Vegetables.png"
+    "img": "https://i.ibb.co.com/fdrVGXKP/Encore-Seafoods-Stuffed-Alaskan-removebg-preview.png"
   },
+
+
+
+
   {
     "id": 4,
     "productName": "Honey Roasted Almonds",
@@ -49,7 +53,7 @@
     "offPercentage": 14.57,
     "batch": "sale",
     "rating": 4.5,
-    "img": "https://i.ibb.co.com/JwG2j75w/Blue-Diamond.png"
+    "img": "https://i.ibb.co.com/rG7LzR5V/Blue-Diamond-removebg-preview.png"
   },
   {
     "id": 5,
@@ -62,7 +66,7 @@
     "offPercentage": 18.75,
     "batch": "featured",
     "rating": 4.7,
-    "img": "https://i.ibb.co.com/ynKr12jC/Boomchickapop.png"
+    "img": "https://i.ibb.co.com/wNXptWyd/Boomchickapop-removebg-preview-1.png"
   },
   {
     "id": 6,
@@ -75,7 +79,7 @@
     "offPercentage": 13.64,
     "batch": "new",
     "rating": 4.9,
-    "img": "https://i.ibb.co.com/nsVpDFzR/Vanilla-Greek.png"
+    "img": "https://i.ibb.co.com/QjvRn1m6/Vanilla-Greek-removebg-preview.png"
   },
   {
     "id": 7,
@@ -88,7 +92,7 @@
     "offPercentage": 16.67,
     "batch": "clearance",
     "rating": 4.3,
-    "img": "https://i.ibb.co.com/gbrkGSXP/Canada-Dry-Ginger-Ale-2-L-Bottle.png"
+    "img": "https://i.ibb.co.com/cXJTR5Ds/Chicken-Meatballs-removebg-preview.png"
   },
   {
     "id": 8,
@@ -101,7 +105,7 @@
     "offPercentage": 15.38,
     "batch": "sale",
     "rating": 4.2,
-    "img": "https://i.ibb.co.com/0jw4HrpF/Chicken-Meatballs.png"
+    "img": "https://i.ibb.co.com/cXJTR5Ds/Chicken-Meatballs-removebg-preview.png"
   },
   {
     "id": 9,
@@ -114,7 +118,7 @@
     "offPercentage": 14.29,
     "batch": "featured",
     "rating": 4.6,
-    "img": "https://i.ibb.co.com/6JBc8tRK/Cone-Ice-Cream.png"
+    "img": "https://i.ibb.co.com/fdrVGXKP/Encore-Seafoods-Stuffed-Alaskan-removebg-preview.png"
   },
   {
     "id": 10,
@@ -127,7 +131,7 @@
     "offPercentage": 11.33,
     "batch": "new",
     "rating": 4.8,
-    "img": "https://i.ibb.co.com/sdnLdsVZ/Encore-Seafoods-Stuffed-Alaskan.png"
+    "img": "https://i.ibb.co.com/RkcJNQyG/Angie-s-Sweet-Salty-Kettle-Corn-removebg-preview.png"
   },
   {
     "id": 11,
@@ -140,7 +144,7 @@
     "offPercentage": 14.29,
     "batch": "sale",
     "rating": 4.5,
-    "img": "https://i.ibb.co.com/0VXPjvD6/Foster-Farms-Takeout-Crispy-Classic.png"
+    "img": "https://i.ibb.co.com/6ccrZhjq/Foster-Farms-Takeout-Crispy-Classic-removebg-preview.png"
   },
   {
     "id": 12,
@@ -153,7 +157,7 @@
     "offPercentage": 13.33,
     "batch": "clearance",
     "rating": 4.1,
-    "img": "https://i.ibb.co.com/sv1nZTy5/Gorton-s-Beer-Battered-Fish-Fillets.png"
+    "img": "https://i.ibb.co.com/1pFP2tz/Seeds-of-Change-Organic-Red-Rice-removebg-preview.png"
   },
   {
     "id": 13,
@@ -166,7 +170,7 @@
     "offPercentage": 12.00,
     "batch": "featured",
     "rating": 4.4,
-    "img": "https://i.ibb.co.com/r2TFt13B/Haagen-Caramel-Cone-Ice-Cream-Boxed.png"
+    "img": "https://i.ibb.co.com/35WFDRzq/Gorton-s-Beer-Battered-Fish-Fillets-removebg-preview.png"
   },
   {
     "id": 14,
@@ -179,7 +183,7 @@
     "offPercentage": 16.67,
     "batch": "new",
     "rating": 4.6,
-    "img": "https://i.ibb.co.com/pB2kS4C1/Seeds-of-Change-Organic-Red-Rice.png"
+    "img": "https://i.ibb.co.com/zVfxP0t2/Haagen-Caramel-Cone-Ice-Cream-Boxed-removebg-preview.png"
   },
   {
     "id": 15,
@@ -192,6 +196,6 @@
     "offPercentage": 14.81,
     "batch": "sale",
     "rating": 4.7,
-    "img": "https://i.ibb.co.com/nsVpDFzR/Vanilla-Greek.png"
+    "img": "https://i.ibb.co.com/1pFP2tz/Seeds-of-Change-Organic-Red-Rice-removebg-preview.png"
   }
 ]

@@ -63,10 +63,10 @@ export default function Navbar() {
                             <div className='hover:bg-[#3BB77E]/50 p-2 rounded-md font-bold text-[#253D4E] duration-400' key={idx}>{m}</div>
                         ))}
                     </div>
-                    <button className="py-2 px-6 bg-[#3BB77E] rounded-md text-white font-medium shadow-md 
+                    <Link to={'/login'} className="py-2 px-6 bg-[#3BB77E] rounded-md text-white font-medium shadow-md 
 transform transition-all duration-300 hover:scale-110 hover:bg-green-800 hover:shadow-lg">
                         Login
-                    </button>
+                    </Link>
 
 
                     {/* ------small and medium device navbar icon------ */}
