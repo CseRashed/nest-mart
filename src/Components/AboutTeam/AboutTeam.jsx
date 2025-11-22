@@ -2,7 +2,7 @@ import React from 'react'
 import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa'
 import img1 from '../../assets/Main.png'
 import img2 from '../../assets/Main-1.png'
-export default function BlogTeam() {
+export default function AboutTeam() {
   return (
     <div className='mt-5 md:mt-1 lg:mt-15'>
       <h1 className='text-[#253D4E] font-bold text-2xl md:text-3xl lg:text-4xl text-center mb-5 md:mb-10 lg:mb-10'>Our Team</h1>

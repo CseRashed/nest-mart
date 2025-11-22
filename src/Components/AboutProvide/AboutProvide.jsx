@@ -5,7 +5,7 @@ import img3 from '../../assets/icon-3.png'
 import img4 from '../../assets/icon-4.png'
 import img5 from '../../assets/icon-5.png'
 import img6 from '../../assets/icon-6.png'
-export default function BlogProvide() {
+export default function AboutProvide() {
     const cart =[
         {img:`${img1}`, 
         title:'Best Prices and offers',

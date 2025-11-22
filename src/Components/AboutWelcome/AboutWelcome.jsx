@@ -3,7 +3,7 @@ import img1 from '../../assets/about_left.png'
 import img2 from '../../assets/about-1.png'
 import img3 from '../../assets/about-2.png'
 import img4 from '../../assets/about-3.png'
-export default function BlogWelcome() {
+export default function AboutWelcome() {
     const img =[
         <img src={img2} alt="" />,
         <img src={img3} alt="" />,

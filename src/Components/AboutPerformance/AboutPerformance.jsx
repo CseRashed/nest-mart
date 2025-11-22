@@ -1,6 +1,6 @@
 import React from 'react'
 import img from '../../assets/about-5.png'
-export default function BlogPerformance() {
+export default function AboutPerformance() {
   return (
     <div className=' my-7 md:mt-10 lg:mt-15'>
       <div className='flex flex-col md:flex-row lg:flex-row gap-8 items-center'>
