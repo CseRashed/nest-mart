@@ -3,8 +3,8 @@ import App from "../App";
 import Login from "../Pages/Login/Login";
 import Home from "../Pages/Home/Home";
 import Register from "../Pages/Register/Register";
-// import Blog from "../Pages/Blog/Blog";
 import About from "../Pages/About/About";
+import Blog from "../Pages/Blog/Blog";
 
 const router=createBrowserRouter([
     {
@@ -26,6 +26,10 @@ const router=createBrowserRouter([
             {
                 path:'/about',
                 element:<About></About>
+            },
+            {
+                path:'/blog',
+                element:<Blog></Blog>
             }
         ]
     }
